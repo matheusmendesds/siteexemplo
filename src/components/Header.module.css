@@ -1,0 +1,7 @@
+.header {
+    /* background-color: #966847; */
+    background: linear-gradient(to right,var(--cor-menu1) ,#966847);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}

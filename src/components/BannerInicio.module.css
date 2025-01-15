@@ -1,0 +1,14 @@
+.banner {
+    height: 20vh;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #1000e9,#2070a5);
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.text {
+    margin: auto;
+    
+}

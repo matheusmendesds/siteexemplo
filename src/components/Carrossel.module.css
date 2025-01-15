@@ -1,0 +1,12 @@
+.carrossel {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.btn {
+    height: fit-content;
+    align-items: center;
+    width: 20px;
+}

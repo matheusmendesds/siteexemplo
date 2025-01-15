@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin: 10px;
+   
+
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    flex-direction: row;
+}
+.link:hover {
+    text-decoration: underline rgb(217, 217, 228);
+    color: black;
+}
